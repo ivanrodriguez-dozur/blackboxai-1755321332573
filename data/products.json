@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chaqueta Deportiva Premium",
+      "price": 89.99,
+      "image": "/images/products/product1.jpg",
+      "category": "Chaquetas",
+      "description": "Chaqueta deportiva de alta calidad con tecnología transpirable y diseño moderno",
+      "colors": ["Negro", "Azul", "Gris"],
+      "sizes": ["S", "M", "L", "XL"],
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Zapatillas Running Pro",
+      "price": 129.99,
+      "image": "/images/products/product2.jpg",
+      "category": "Zapatos",
+      "description": "Zapatillas profesionales para running con amortiguación avanzada y suela antideslizante",
+      "colors": ["Blanco", "Negro", "Azul"],
+      "sizes": ["38", "39", "40", "41", "42", "43", "44"],
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Básica Cotton",
+      "price": 24.99,
+      "image": "/images/products/product3.jpg",
+      "category": "Camisetas",
+      "description": "Camiseta básica de algodón 100% orgánico, perfecta para el día a día",
+      "colors": ["Blanco", "Negro", "Gris", "Azul marino"],
+      "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "name": "Pantalón Jeans Slim",
+      "price": 69.99,
+      "image": "/images/products/product4.jpg",
+      "category": "Pantalones",
+      "description": "Pantalón jeans de corte slim con lavado moderno y ajuste perfecto",
+      "colors": ["Azul claro", "Azul oscuro", "Negro"],
+      "sizes": ["28", "30", "32", "34", "36", "38"],
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Sudadera Con Capucha",
+      "price": 54.99,
+      "image": "/images/products/product5.jpg",
+      "category": "Sudaderas",
+      "description": "Sudadera con capucha de felpa suave, ideal para el tiempo libre",
+      "colors": ["Gris", "Negro", "Azul marino", "Burdeos"],
+      "sizes": ["S", "M", "L", "XL", "XXL"],
+      "stock": 20
+    },
+    {
+      "id": 6,
+      "name": "Vestido Casual Elegante",
+      "price": 79.99,
+      "image": "/images/products/product6.jpg",
+      "category": "Vestidos",
+      "description": "Vestido casual elegante perfecto para ocasiones especiales y uso diario",
+      "colors": ["Negro", "Azul marino", "Rojo", "Verde"],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "stock": 18
+    },
+    {
+      "id": 7,
+      "name": "Gorra Deportiva Ajustable",
+      "price": 19.99,
+      "image": "/images/products/product7.jpg",
+      "category": "Accesorios",
+      "description": "Gorra deportiva con visera curva y cierre ajustable, protección UV",
+      "colors": ["Negro", "Blanco", "Azul", "Rojo"],
+      "sizes": ["Única"],
+      "stock": 40
+    },
+    {
+      "id": 8,
+      "name": "Mochila Urban Style",
+      "price": 45.99,
+      "image": "/images/products/product8.jpg",
+      "category": "Accesorios",
+      "description": "Mochila urbana con múltiples compartimentos y diseño resistente al agua",
+      "colors": ["Negro", "Gris", "Azul oscuro"],
+      "sizes": ["Única"],
+      "stock": 12
+    }
+  ]
+}
